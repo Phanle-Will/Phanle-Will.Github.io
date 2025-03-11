@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Striving Data Analyst
   
-   Hobbies: Cars, Coffee, and Photography
+  Hobbies: Cars, Coffee, and Photography
   <a href="https://www.linkedin.com/in/williammle/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
